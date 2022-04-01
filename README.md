@@ -19,7 +19,7 @@ Planujemy projekt stworzyć w architekturze klient-serwer. Będziemy mieli jeden
 
 Aplikacja desktopowa dla kucharzy napisana w języku Java z interfejsem graficznym napisanym przy użyciu biblioteki Swing lub JavaFX
 
-### Funkcjonalność:
+### Funkcjonalności:
 
 - dla kucharzy
 
