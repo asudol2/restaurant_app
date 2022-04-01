@@ -1,4 +1,4 @@
-# Programowanie Aplikacyjne (PAP) - 21Z - Zespół 7
+# Projekt stworzony w ramach przedmiotu PAP (Informatyka WEITI PW)
 
 # Członkowie zespołu
 
@@ -70,24 +70,7 @@ Centralna baza danych Oracle
 
 ![Model relacyjny](./diagrams/relational_model_draft.png)
 
-## Funkcjonalności opcjonalne, które planujemy wprowadzić, dopiero po wprowadzeniu funkcjonalności krytycznych:
-
-(Funkcjonalności te można zastąpić bezpośrednim dostępem tych osób do bazy danych)
 
 ## Aplikacja desktopowa
 
-Aplikacja desktopowa dla zaopatrzycieli i adminów napisana w języku Java z interfejsem graficznym napisanym przy użyciu biblioteki Swing lub JavaFX
-
-- do inwentarzu
-
-  - wyświetlanie danych o zaopatrzeniu
-  - wyświetlanie czego jest mało
-  - aktualizacja ilości składników, gdy dotrze zaopatrzenie
-
-- dla admina
-
-  - crud składniki / produkty
-  - crud dania
-  - crud pracownicy
-  - crud stoliki
-  - crud kategorie
+Aplikacja desktopowa dla zaopatrzycieli i adminów napisana w języku Java z interfejsem graficznym napisanym przy użyciu biblioteki Swing
